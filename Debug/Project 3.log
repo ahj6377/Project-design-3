@@ -1,0 +1,5 @@
+﻿  Transaction.cpp
+c:\users\ahj63\documents\visual studio 2015\projects\project 3\project 3\transaction.cpp(33): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\ahj63\documents\visual studio 2015\projects\project 3\project 3\transaction.cpp(97): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Project 3.vcxproj -> C:\Users\ahj63\Documents\Visual Studio 2015\Projects\Project 3\Debug\Project 3.exe
+  Project 3.vcxproj -> C:\Users\ahj63\Documents\Visual Studio 2015\Projects\Project 3\Debug\Project 3.pdb (Full PDB)
